@@ -1,0 +1,17 @@
+{
+  "name": "aikre8tive-stargate",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": "18.x",
+    "npm": "9.x"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "node server.py"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
