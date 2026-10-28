@@ -10,3 +10,5 @@
 
 📡 Live: https://ai-kre8tive-stargate.vercel.app  
 📁 GitHub: https://github.com/TheKre8tive/AiKre8tive-Stargate
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=press_release.md
